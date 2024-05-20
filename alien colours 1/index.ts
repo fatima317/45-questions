@@ -6,7 +6,6 @@ if (alien_colour === "green") {
 }
 //version that fails(no output)
 alien_colour = "red";
-
 if (alien_colour === "green") {
-    // no output
+    // no output because condition is false
 }
